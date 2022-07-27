@@ -1,0 +1,19 @@
+{
+  "name": "c20720pp",
+  "author": "Cleo, Cleo#1003 (Discord), Cleover (Github), KamikoCodes (Fiverr)",
+  "version": "1.0.3",
+  "description": "c20720pp's Fiverr Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.22",
+    "cron": "^1.8.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.3.0",
+    "undici": "^5.4.0"
+  }
+}
